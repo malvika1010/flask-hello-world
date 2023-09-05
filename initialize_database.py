@@ -1,4 +1,4 @@
-from app import app,db
+from app import app, db
 
 # Create the database tables
 def initialize_database():
